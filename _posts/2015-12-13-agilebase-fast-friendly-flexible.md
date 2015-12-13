@@ -3,11 +3,11 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-13T15:48:21.878Z'
-dateModified: '2015-12-13T15:33:39.927Z'
+datePublished: '2015-12-13T15:48:35.080Z'
+dateModified: '2015-12-13T15:48:28.176Z'
 title: agileBase = Fast + Friendly + Flexible
 author: []
 authors: []
