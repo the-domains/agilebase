@@ -1,0 +1,28 @@
+name: agileBase
+favicon: null
+layout_spectrum: 0.5022383495233953
+typography_spectrum: 0.4787630813661963
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.517238917062059
+  lightness: 0.4256134075112641
+  saturation: 0.37793865986168385
+  rhythmicContrast: 0.027850974816828966
+purpose: []
