@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-13T15:23:41.777Z'
-dateModified: '2015-12-13T15:23:27.295Z'
+datePublished: '2015-12-13T15:48:21.878Z'
+dateModified: '2015-12-13T15:33:39.927Z'
 title: agileBase = Fast + Friendly + Flexible
 author: []
 authors: []
@@ -22,12 +22,7 @@ url: agilebase-fast-friendly-flexible/index.html
 _type: Article
 
 ---
-null
-null
-null
-
 * **Agile**: agileBase CRM and the wider platform deliver business agility through technology
 * **Fast**: be there first. Development takes hours, not months, so you always keep pace with what your company needs.
 * **Friendly**: beautiful interface. People love using agileBase because it looks stunning and matches their specific requirements
-
 * **Flexible**: build bespoke software to meet your current and future business needs
