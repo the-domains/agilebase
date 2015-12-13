@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-13T15:48:03.026Z'
-dateModified: '2015-12-13T15:47:36.607Z'
+datePublished: '2015-12-13T15:53:30.387Z'
+dateModified: '2015-12-13T15:53:25.891Z'
 title: Cliff Calcutt
 author: []
+sourcePath: _posts/2015-12-13-cliff-calcutt.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-13-cliff-calcutt.md
-published: true
 url: cliff-calcutt/index.html
 _type: Article
 
