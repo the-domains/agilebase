@@ -6,9 +6,9 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-13T15:53:30.387Z'
-dateModified: '2015-12-13T15:53:25.891Z'
-title: Cliff Calcutt
+datePublished: '2015-12-13T16:03:42.418Z'
+dateModified: '2015-12-13T16:03:37.566Z'
+title: People
 author: []
 sourcePath: _posts/2015-12-13-cliff-calcutt.md
 published: true
@@ -22,6 +22,8 @@ url: cliff-calcutt/index.html
 _type: Article
 
 ---
+# People
+
 # Cliff Calcutt
 
 **Managing director**
@@ -40,6 +42,6 @@ Cliff spent the first 20 years of his career as a successful entrepreneur, and m
 oliver@agilebase.co.uk
 
 Oliver heads up development of the agileBase platform. Against a background of working in consultancy firms, he first spotted the opportunity to make agile software while working for a client.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8a755fd-ac1c-4273-b009-7c2b919adeef.jpg)
 
 He's an expert in creating robust technologies, and enterprise grade, flexible software.
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a8a755fd-ac1c-4273-b009-7c2b919adeef.jpg)
