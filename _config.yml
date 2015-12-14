@@ -1,7 +1,7 @@
 name: agileBase
 favicon: null
-layout_spectrum: 0.49453
-typography_spectrum: 0.66566
+layout_spectrum: 0.78035
+typography_spectrum: 0.24948
 title: agileBase - business agility through technology
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#96c45b'
-    - '#aa3555'
-    - '#3e97ac'
-    - '#040604'
-  brandStrength: 0.3125
-  lightness: 0.5625
+    - '#6f7373'
+    - '#1eb79c'
+    - '#5a3664'
+    - '#f7ac42'
+    - '#9dcc52'
+  brandStrength: 0.5
+  lightness: 0.4375
   saturation: 0.1875
-  rhythmicContrast: 0.027850974816828966
+  rhythmicContrast: 0.5
 purpose: []
