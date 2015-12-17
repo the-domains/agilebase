@@ -4,7 +4,7 @@
         <description><![CDATA[agileBase - business agility through technology]]></description>
         <link>https://thegrid.ai/agilebase/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 12:12:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 12:12:47 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agilebase/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[agile food]]></title>
@@ -12,20 +12,6 @@
             <link>https://thegrid.ai/agilebase/agile-food/index.html</link>
             <guid isPermaLink="false">d9f09e37-4c26-4267-95fb-15cb0656bc1d</guid>
             <pubDate>Thu, 17 Dec 2015 11:51:58 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[People]]></title>
-            <description><![CDATA[<article><h1>People</h1><p>Managing director</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1f03b94601b33597b06215b8783fedbe7489fd53.jpg"></article>]]></description>
-            <link>https://thegrid.ai/agilebase/cliff-calcutt/index.html</link>
-            <guid isPermaLink="false">6562e17d-3025-4907-9f4e-4ca987cc34e7</guid>
-            <pubDate>Sun, 13 Dec 2015 16:03:42 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Pricing]]></title>
-            <description><![CDATA[<article><h1>Pricing</h1><p>Affordable and transparent pricing that means you only pay for what you need. We offer standard packages to get you started:</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b44be4c53a3f1149f0f4147c19b1ba2bef0ae10a.png"></article>]]></description>
-            <link>https://thegrid.ai/agilebase/grow/index.html</link>
-            <guid isPermaLink="false">8d0abb34-2bb5-493e-8989-0813577987b8</guid>
-            <pubDate>Sun, 13 Dec 2015 16:39:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
