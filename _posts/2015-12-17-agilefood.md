@@ -6,24 +6,28 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-17T13:18:47.518Z'
-dateModified: '2015-12-17T13:18:41.168Z'
+datePublished: '2015-12-17T13:36:07.248Z'
+dateModified: '2015-12-17T13:36:02.128Z'
 title: 'agile:Food'
 author: []
+sourcePath: _posts/2015-12-17-agilefood.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-agilefood.md
-published: true
 url: agilefood/index.html
 _type: Article
 
 ---
 # agile:Food
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c7d8dc3-e17b-4b5b-8bfa-16796c9a22ea.png)
+
+At AgileChilli we understand that food manufacturing never stands still. How is your current product range performing  -- and is your pipeline of new products ready to deliver?  
+
+Speed to market with continual innovation counts in today's market, while always maintaining the highest standards. The challenge is to get there quickly and smoothly every time, with every product, which demands excellent collaboration and the right tools.
 
 Core Product
 
