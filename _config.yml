@@ -1,6 +1,6 @@
 name: agileBase
 favicon: null
-layout_spectrum: 0.66758
+layout_spectrum: 0.56545
 typography_spectrum: 0.2282
 title: Go faster in food
 cta:
@@ -22,7 +22,7 @@ color:
     - '#b3cce6'
     - '#969798'
     - '#424344'
-  brandStrength: 0.1875
+  brandStrength: 0.625
   lightness: 0.4375
   saturation: 0.625
   rhythmicContrast: 0.75
