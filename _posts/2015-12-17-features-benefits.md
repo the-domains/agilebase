@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T13:18:26.046Z'
-dateModified: '2015-12-17T13:18:16.240Z'
+datePublished: '2015-12-17T13:50:04.875Z'
+dateModified: '2015-12-17T13:40:29.770Z'
 title: Features / Benefits
 author: []
+sourcePath: _posts/2015-12-17-features-benefits.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-features-benefits.md
-published: true
 url: features-benefits/index.html
 _type: Article
 
