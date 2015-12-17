@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-17T13:36:07.248Z'
-dateModified: '2015-12-17T13:36:02.128Z'
+datePublished: '2015-12-17T13:36:42.184Z'
+dateModified: '2015-12-17T13:36:36.645Z'
 title: 'agile:Food'
 author: []
 sourcePath: _posts/2015-12-17-agilefood.md
@@ -22,8 +22,9 @@ url: agilefood/index.html
 _type: Article
 
 ---
-# agile:Food
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c7d8dc3-e17b-4b5b-8bfa-16796c9a22ea.png)
+
+# agile:Food
 
 At AgileChilli we understand that food manufacturing never stands still. How is your current product range performing  -- and is your pipeline of new products ready to deliver?  
 
