@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T13:12:25.924Z'
-dateModified: '2015-12-17T13:03:42.334Z'
+datePublished: '2015-12-17T13:12:54.099Z'
+dateModified: '2015-12-17T13:12:44.109Z'
 title: Case Studies
 author: []
 authors: []
@@ -23,7 +23,5 @@ _type: Article
 
 ---
 # Case Studies
-
-Castell Howell
 
 Lewis Pies
