@@ -1,7 +1,7 @@
 name: agileBase
 favicon: null
-layout_spectrum: 0.78035
-typography_spectrum: 0.24948
+layout_spectrum: 0.78461
+typography_spectrum: 0.2282
 title: agileBase - business agility through technology
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5
   lightness: 0.4375
   saturation: 0.1875
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.75
 purpose: []
