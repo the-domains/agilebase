@@ -4,7 +4,7 @@
         <description><![CDATA[agileBase - business agility through technology]]></description>
         <link>https://thegrid.ai/agilebase/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 12:11:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 12:11:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agilebase/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[agileBase]]></title>
@@ -19,6 +19,13 @@
             <link>https://thegrid.ai/agilebase/agile-food/index.html</link>
             <guid isPermaLink="false">d9f09e37-4c26-4267-95fb-15cb0656bc1d</guid>
             <pubDate>Thu, 17 Dec 2015 11:51:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Get in touch]]></title>
+            <description><![CDATA[<article><h1>Get in touch</h1><p>agileBase provide cloud business software, tailored to fit individual businesses. It has been built from the ground up to be fast to use, and flexible to change.</p></article>]]></description>
+            <link>https://thegrid.ai/agilebase/get-in-touch/index.html</link>
+            <guid isPermaLink="false">a7666e9a-c64b-43a3-a0a7-a56a7d6acd85</guid>
+            <pubDate>Sun, 13 Dec 2015 16:01:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[People]]></title>
