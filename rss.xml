@@ -4,8 +4,15 @@
         <description><![CDATA[Go faster in food]]></description>
         <link>https://thegrid.ai/agilebase/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 17 Dec 2015 13:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Dec 2015 13:18:51 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agilebase/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[agile:Food]]></title>
+            <description><![CDATA[<article><h1>agile:Food</h1><p>Core Product</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/149c965b27a6428163d02d2b3ce8cbff3e70ff8e.png"></article>]]></description>
+            <link>https://thegrid.ai/agilebase/agilefood/index.html</link>
+            <guid isPermaLink="false">59eddc34-a8a8-4402-bb6b-95c9cbfd6f64</guid>
+            <pubDate>Thu, 17 Dec 2015 13:18:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Features / Benefits]]></title>
             <description><![CDATA[<article><h1>Features / Benefits</h1><p>Built on agilebase, therefore is secure, flexible....</p></article>]]></description>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/agilebase/add-ons/index.html</link>
             <guid isPermaLink="false">f7cd8706-5a6a-44aa-96d6-bbe43056f093</guid>
             <pubDate>Thu, 17 Dec 2015 13:02:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[agile:Food]]></title>
-            <description><![CDATA[<article><h1>agile:Food</h1><p>Core Product</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/149c965b27a6428163d02d2b3ce8cbff3e70ff8e.png"></article>]]></description>
-            <link>https://thegrid.ai/agilebase/agilefood/index.html</link>
-            <guid isPermaLink="false">59eddc34-a8a8-4402-bb6b-95c9cbfd6f64</guid>
-            <pubDate>Thu, 17 Dec 2015 13:02:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
