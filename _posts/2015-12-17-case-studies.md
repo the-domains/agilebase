@@ -6,22 +6,25 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-17T13:12:54.099Z'
-dateModified: '2015-12-17T13:12:44.109Z'
+datePublished: '2015-12-18T23:00:27.681Z'
+dateModified: '2015-12-18T22:59:36.312Z'
 title: Case Studies
 author: []
+sourcePath: _posts/2015-12-17-case-studies.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-17-case-studies.md
-published: true
 url: case-studies/index.html
 _type: Article
 
 ---
 # Case Studies
 
+Castell Howell
+
 Lewis Pies
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/0f01b8f8-2745-4b60-940a-fae5c90315cb.jpg)
