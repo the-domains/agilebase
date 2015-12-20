@@ -4,7 +4,7 @@
         <description><![CDATA[agile:food - A game-changer in food]]></description>
         <link>https://thegrid.ai/agilebase/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 12:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Dec 2015 12:38:52 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agilebase/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[agile:Food]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/agilebase/agilefood/index.html</link>
             <guid isPermaLink="false">59eddc34-a8a8-4402-bb6b-95c9cbfd6f64</guid>
             <pubDate>Thu, 17 Dec 2015 13:36:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[New Product Development]]></title>
+            <description><![CDATA[<article><h1>New Product Development</h1><p>Create with confidence</p></article>]]></description>
+            <link>https://thegrid.ai/agilebase/new-product-development/index.html</link>
+            <guid isPermaLink="false">9a5d8e9f-6459-416a-8c3d-b01964f289f6</guid>
+            <pubDate>Sun, 20 Dec 2015 12:38:51 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[agileBase case study: Lewis Pies]]></title>
