@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2015-12-17T13:36:42.184Z'
-dateModified: '2015-12-17T13:36:36.645Z'
+datePublished: '2015-12-20T20:21:31.037Z'
+dateModified: '2015-12-20T12:35:36.478Z'
 title: 'agile:Food'
 author: []
 sourcePath: _posts/2015-12-17-agilefood.md
@@ -22,56 +22,21 @@ url: agilefood/index.html
 _type: Article
 
 ---
+# agile:Food
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7c7d8dc3-e17b-4b5b-8bfa-16796c9a22ea.png)
 
-# agile:Food
+****
 
-At AgileChilli we understand that food manufacturing never stands still. How is your current product range performing  -- and is your pipeline of new products ready to deliver?  
+**At AgileChilli we know that food manufacturing never stands still.**
 
-Speed to market with continual innovation counts in today's market, while always maintaining the highest standards. The challenge is to get there quickly and smoothly every time, with every product, which demands excellent collaboration and the right tools.
+How is your current product range performing right now? And is your pipeline of new products ready to deliver?
 
-Core Product
+Being speedy to market with innovative, exciting ideas counts more than ever in today's competitive food space. Maintaining the highest standards matters, too, with so much complexity and regulation to navigate and comply with. The challenge for your product development and technical teams is to get there quickly and smoothly every time, creating successful products that make you proud.
 
-1. Basic CRM 
+agile:Food is built for speed, collaboration and control:
 
-  1. Organisations - Customers, Suppliers, End Customer, Prospect
-
-  2. Sites
-
-  3. People
-
-2. Products
-
-  1. made products
-
-    1. automatically generated dev code
-
-    2. manual 'real' product code
-
-  2. sample in ingredients
-
-    1. automatic dev. code with prefix
-
-  3. Ingredients
-
-    1. automatic actual code with user chosen prefix
-
-  4. Recipes
-
-3. Briefs
-
-4. Samples Out
-
-5. Samples In
-
-6. Costs
-
-7. Specs
-
-8. System Admin
-
-  1. Shipping methods
-
-  2. Hourly £rate
-
-  3. Cost types
+* It's in the cloud, so it's available anywhere, is always developing, and has no set-up costs (unless you need integration) 
+* It's responsive and adaptable to the needs of all your users
+* The interfaces are intuitive and attractive, with elegant reporting and smart visualisations delivering actionable insights
+* Integration is seamless with existing systems (including intelligent machines), via our dedicated API
+* Social collaboration is built in at every step, delivering transparency, accountability and improved productivity because it makes discussion and incremental development so effortless
