@@ -17,8 +17,8 @@ keywords:
   - thoughtworks
   - lewis
 description: Uploaded by Oliver Kohll on 2015-05-07.
-datePublished: '2015-12-20T11:25:30.266Z'
-dateModified: '2015-12-20T11:25:25.964Z'
+datePublished: '2015-12-20T20:26:07.281Z'
+dateModified: '2015-12-20T20:26:03.829Z'
 author:
   - name: Oliver Kohll
     url: 'https://www.youtube.com/user/okohll'
@@ -35,7 +35,7 @@ app_links:
     package: com.google.android.youtube
   - url: 'https://www.youtube.com/watch?v=HxZvLGuOgeg&feature=applinks'
     type: web
-title: 'agileBase case study: Lewis Pies'
+title: 'Case Study: Lewis Pies'
 sourcePath: _posts/2015-12-20-agilebase-case-study-lewis-pies-new.md
 published: true
 authors: []
