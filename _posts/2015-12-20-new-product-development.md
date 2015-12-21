@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-20T12:38:51.840Z'
-dateModified: '2015-12-20T12:38:10.836Z'
+datePublished: '2015-12-21T21:04:11.930Z'
+dateModified: '2015-12-21T21:03:58.894Z'
 title: New Product Development
 author: []
+sourcePath: _posts/2015-12-20-new-product-development.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-20-new-product-development.md
-published: true
 url: new-product-development/index.html
 _type: Article
 
@@ -34,3 +34,4 @@ New product development is creative and technical at the same time. Our **NPD Te
 * Enjoy search and reporting capabilities that just keep things simple and intuitive
 
 Developing new products with agile:Food gives you flexibility and whole-team oversight of everything you create. You can even flex the process time and again with endless different ingredient choices to analyse the impacts on your cost base, product nutrition, allergens, environmental impact and more. Every variable in your development process can be configured and reported on, from start to finish.
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4b60038a-5642-4ad5-b764-6458882405b2.png)
