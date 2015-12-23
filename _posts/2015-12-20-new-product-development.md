@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-23T09:58:09.763Z'
-dateModified: '2015-12-23T09:48:15.753Z'
+datePublished: '2015-12-23T09:59:02.409Z'
+dateModified: '2015-12-23T09:58:59.243Z'
 title: New Product Development
 author: []
 sourcePath: _posts/2015-12-20-new-product-development.md
@@ -23,7 +23,7 @@ _type: Article
 
 ---
 # New Product Development
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/e6232b98-504c-4e90-ad46-1c66d8127f4d.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf9f49cd7e3764290975713aed6a35a3ba6830dd.png)
 
 **Create with confidence**
 
