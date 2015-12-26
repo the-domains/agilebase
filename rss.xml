@@ -4,7 +4,7 @@
         <description><![CDATA[agile:food - A game-changer in food]]></description>
         <link>https://thegrid.ai/agilebase/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 11:30:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 11:30:26 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agilebase/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[agile:Food]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/agilebase/agilefood/index.html</link>
             <guid isPermaLink="false">59eddc34-a8a8-4402-bb6b-95c9cbfd6f64</guid>
             <pubDate>Sun, 20 Dec 2015 20:21:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Products]]></title>
+            <description><![CDATA[<h1>Products</h1>]]></description>
+            <link>https://thegrid.ai/agilebase/products/index.html</link>
+            <guid isPermaLink="false">717f2625-9e14-48d9-9e5b-731e9376396c</guid>
+            <pubDate>Sat, 26 Dec 2015 11:29:55 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Contact Us]]></title>
