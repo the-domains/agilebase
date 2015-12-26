@@ -4,7 +4,7 @@
         <description><![CDATA[agile:food - A game-changer in food]]></description>
         <link>https://thegrid.ai/agilebase/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 11:17:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 11:30:23 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agilebase/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[agile:Food]]></title>
@@ -12,6 +12,13 @@
             <link>https://thegrid.ai/agilebase/agilefood/index.html</link>
             <guid isPermaLink="false">59eddc34-a8a8-4402-bb6b-95c9cbfd6f64</guid>
             <pubDate>Sun, 20 Dec 2015 20:21:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Contact Us]]></title>
+            <description><![CDATA[<article><h1>Contact Us</h1><p>Please let us know if you want a live demo of the agile:NPDtech product. We'll get you set up on the cloud in a jiffy, all you need to try it out is a modern web browser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19884b51f43657f7f09a9b71071bba4d699aa0a8.jpg"></article>]]></description>
+            <link>https://thegrid.ai/agilebase/contact-us/index.html</link>
+            <guid isPermaLink="false">acfd01ed-f5c5-4038-8f44-1e2994a0b90a</guid>
+            <pubDate>Sat, 26 Dec 2015 11:29:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Product Development]]></title>
