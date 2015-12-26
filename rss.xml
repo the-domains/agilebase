@@ -4,7 +4,7 @@
         <description><![CDATA[agile:food - A game-changer in food]]></description>
         <link>https://thegrid.ai/agilebase/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Dec 2015 09:59:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Dec 2015 10:43:35 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/agilebase/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[agile:Food]]></title>
@@ -15,7 +15,7 @@
         </item>
         <item>
             <title><![CDATA[New Product Development]]></title>
-            <description><![CDATA[<article><h1>New Product Development</h1><p>Create with confidence</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/bf9f49cd7e3764290975713aed6a35a3ba6830dd.png"></article>]]></description>
+            <description><![CDATA[<article><h1>New Product Development</h1><p>Create with confidence</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63ae09dcc7f653270c81235e2badee8b18ef1aef.png"></article>]]></description>
             <link>https://thegrid.ai/agilebase/new-product-development/index.html</link>
             <guid isPermaLink="false">9a5d8e9f-6459-416a-8c3d-b01964f289f6</guid>
             <pubDate>Wed, 23 Dec 2015 09:59:02 GMT</pubDate>
@@ -43,10 +43,10 @@
         </item>
         <item>
             <title><![CDATA[Add ons]]></title>
-            <description><![CDATA[<article><h1>Add ons</h1><p>Buy and build</p></article>]]></description>
+            <description><![CDATA[<article><h1>Add ons</h1><p>Buy and build</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d862e87805bab1d1d193b50d5b89b778e194ce0a.png"></article>]]></description>
             <link>https://thegrid.ai/agilebase/add-ons/index.html</link>
             <guid isPermaLink="false">f7cd8706-5a6a-44aa-96d6-bbe43056f093</guid>
-            <pubDate>Sun, 20 Dec 2015 20:21:21 GMT</pubDate>
+            <pubDate>Sat, 26 Dec 2015 10:43:14 GMT</pubDate>
         </item>
     </channel>
 </rss>
