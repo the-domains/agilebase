@@ -2,28 +2,35 @@
     <channel>
         <title><![CDATA[agile:food - A game-changer in food]]></title>
         <description><![CDATA[agile:food - A game-changer in food]]></description>
-        <link>https://thegrid.ai/agilebase/</link>
+        <link>http://npdtech.agilechilli.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 26 Dec 2015 11:32:06 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/agilebase/rss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Dec 2015 12:04:44 GMT</lastBuildDate>
+        <atom:link href="http://npdtech.agilechilli.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[agile:Food]]></title>
             <description><![CDATA[<article><h1>agile:Food</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/149c965b27a6428163d02d2b3ce8cbff3e70ff8e.png"></article>]]></description>
-            <link>https://thegrid.ai/agilebase/agilefood/index.html</link>
+            <link>http://npdtech.agilechilli.com/agilefood/index.html</link>
             <guid isPermaLink="false">59eddc34-a8a8-4402-bb6b-95c9cbfd6f64</guid>
             <pubDate>Sun, 20 Dec 2015 20:21:31 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Customers]]></title>
+            <description><![CDATA[<article><h1>Customers</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2ba82db0e377f3d4f616f8f85eacaca73a7309bc.jpg"></article>]]></description>
+            <link>http://npdtech.agilechilli.com/customers/index.html</link>
+            <guid isPermaLink="false">a9b67a57-076d-4d2a-a709-dbff3d80f196</guid>
+            <pubDate>Tue, 29 Dec 2015 12:04:08 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Contact Us]]></title>
             <description><![CDATA[<article><h1>Contact Us</h1><p>Please let us know if you want a live demo of the agile:NPDtech product. We'll get you set up on the cloud in a jiffy, all you need to try it out is a modern web browser.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/19884b51f43657f7f09a9b71071bba4d699aa0a8.jpg"></article>]]></description>
-            <link>https://thegrid.ai/agilebase/contact-us/index.html</link>
+            <link>http://npdtech.agilechilli.com/contact-us/index.html</link>
             <guid isPermaLink="false">acfd01ed-f5c5-4038-8f44-1e2994a0b90a</guid>
             <pubDate>Sat, 26 Dec 2015 11:29:54 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[New Product Development]]></title>
             <description><![CDATA[<article><h1>New Product Development</h1><p>Create with confidence</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/63ae09dcc7f653270c81235e2badee8b18ef1aef.png"></article>]]></description>
-            <link>https://thegrid.ai/agilebase/new-product-development/index.html</link>
+            <link>http://npdtech.agilechilli.com/new-product-development/index.html</link>
             <guid isPermaLink="false">9a5d8e9f-6459-416a-8c3d-b01964f289f6</guid>
             <pubDate>Wed, 23 Dec 2015 09:59:02 GMT</pubDate>
         </item>
@@ -37,21 +44,21 @@
         <item>
             <title><![CDATA[Features / Benefits]]></title>
             <description><![CDATA[<article><h1>Features / Benefits</h1><p>agile:Food is built for speed, and also built for control.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2909ada41eb0c49ffc62e5adb0daf855271e2221.jpg"></article>]]></description>
-            <link>https://thegrid.ai/agilebase/features-benefits/index.html</link>
+            <link>http://npdtech.agilechilli.com/features-benefits/index.html</link>
             <guid isPermaLink="false">8764ba0e-7d7f-44b1-b80e-02563b9394ea</guid>
             <pubDate>Sat, 26 Dec 2015 11:17:13 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Pricing]]></title>
             <description><![CDATA[<article><h1>Pricing</h1><p>Call to action</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/68b80089d6dd99fb5e24453f6e7ce3e4690d0d8a.png"></article>]]></description>
-            <link>https://thegrid.ai/agilebase/pricing/index.html</link>
+            <link>http://npdtech.agilechilli.com/pricing/index.html</link>
             <guid isPermaLink="false">96b0545d-f3a0-400b-9af6-992377885294</guid>
             <pubDate>Sun, 20 Dec 2015 12:10:04 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Add ons]]></title>
             <description><![CDATA[<article><h1>Add ons</h1><p>Buy and build</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5aa0edc1e8db60816b0e00494ac24682a34ada29.png"></article>]]></description>
-            <link>https://thegrid.ai/agilebase/add-ons/index.html</link>
+            <link>http://npdtech.agilechilli.com/add-ons/index.html</link>
             <guid isPermaLink="false">f7cd8706-5a6a-44aa-96d6-bbe43056f093</guid>
             <pubDate>Sat, 26 Dec 2015 10:43:14 GMT</pubDate>
         </item>
