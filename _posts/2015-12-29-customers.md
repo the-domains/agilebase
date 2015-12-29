@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-29T12:04:08.662Z'
-dateModified: '2015-12-29T12:03:39.950Z'
+datePublished: '2015-12-29T12:10:51.306Z'
+dateModified: '2015-12-29T12:10:47.616Z'
 title: Customers
 author: []
+sourcePath: _posts/2015-12-29-customers.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-29-customers.md
-published: true
 url: customers/index.html
 _type: Article
 
@@ -61,9 +61,9 @@ Nigel Williams, Financial Director
 
 [https://youtu.be/HxZvLGuOgeg][1]
 
-> **We needed software that we could change quickly, that was agile and that could fit the way that we worked. I saw agile:food and knew that it would be an easy system to roll out. ****We involved the staff in the process, building the processes around their roles and got the software up and running within two weeks.**
+> We needed software that we could change quickly, that was agile and that could fit the way that we worked. I saw agile:food and knew that it would be an easy system to roll out. We involved the staff in the process, building the processes around their roles and got the software up and running within two weeks.
 
-# **Wilf Lewis, Commercial Director**
+Wilf Lewis, Commercial Director
 
 ****
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca477ba6-7300-4725-8b46-40682d1b2cb5.png)
