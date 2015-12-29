@@ -4,7 +4,7 @@
         <description><![CDATA[agile:food - A game-changer in food]]></description>
         <link>http://npdtech.agilechilli.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Dec 2015 12:04:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Dec 2015 12:09:13 GMT</lastBuildDate>
         <atom:link href="http://npdtech.agilechilli.com/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[agile:Food]]></title>
@@ -12,6 +12,13 @@
             <link>http://npdtech.agilechilli.com/agilefood/index.html</link>
             <guid isPermaLink="false">59eddc34-a8a8-4402-bb6b-95c9cbfd6f64</guid>
             <pubDate>Sun, 20 Dec 2015 20:21:31 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Company]]></title>
+            <description><![CDATA[<article><h1>Company</h1><p>agile:Food software is build on the agile:base platform owned by agileChilli Ltd. To read more about the company and people, please see</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1775113f7d814d1ca968891a82271cf74266a210.png"></article>]]></description>
+            <link>http://npdtech.agilechilli.com/company/index.html</link>
+            <guid isPermaLink="false">98987869-41e1-4324-86b2-18bfde0ac5e8</guid>
+            <pubDate>Tue, 29 Dec 2015 12:08:22 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Customers]]></title>
