@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T14:45:21.648Z'
-dateModified: '2016-01-15T14:45:21.090Z'
+datePublished: '2016-01-15T16:43:34.533Z'
+dateModified: '2016-01-15T16:43:28.779Z'
 title: Features / Benefits
 author: []
 sourcePath: _posts/2015-12-17-features-benefits.md
@@ -26,8 +26,10 @@ _type: Article
 
 agile:NPDtech is built for speed, innovation and for control.
 
-The NPD team can innovate, rapidly creating new products and variants to find new customers and better serve existing ones.
-The Technical team can ensure compliance; controlling allergens, species, countries of origin and the like and producing detailed specifications, keeping pace with the ever-stricter technical requirements of the food industry.
+The NPD team can innovate, rapidly creating new products and variants to find new customers and better serve existing ones, tracking the impact on cost, nutrition and other variables with every change to the recipe. 
+
+The Technical team can ensure compliance; controlling allergens, species, countries of origin and the like and producing detailed specifications, keeping pace with the ever-stricter technical requirements of the food industry. 
+
 Both NPD and Technical requirements are catered for and seamlessly integrated:
 
 _**innovation with compliance**_.
