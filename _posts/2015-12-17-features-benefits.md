@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-15T14:39:45.181Z'
-dateModified: '2016-01-15T14:39:44.839Z'
+datePublished: '2016-01-15T14:45:20.504Z'
+dateModified: '2016-01-15T14:45:17.727Z'
 title: Features / Benefits
 author: []
 sourcePath: _posts/2015-12-17-features-benefits.md
@@ -28,7 +28,9 @@ agile:NPDtech is built for speed, innovation and for control.
 
 The NPD team can innovate, rapidly creating new products and variants to find new customers and better serve existing ones.
 The Technical team can ensure compliance; controlling allergens, species, countries of origin and the like and producing detailed specifications, keeping pace with the ever-stricter technical requirements of the food industry.
-Both NPD and Technical requirements are catered for and seamlessly integrated: _**innovation with compliance**_.
+Both NPD and Technical requirements are catered for and seamlessly integrated:
+
+_**innovation with compliance**_.
 
 agile:NPDtech is a no compromise solution that takes our expertise from the past ten years of food manufacturing into an exciting new world where product development doesn't have to mean bureaucracy and new recipe ideas can flourish.
 
