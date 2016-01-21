@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-21T20:40:35.281Z'
-dateModified: '2016-01-21T20:40:34.305Z'
+datePublished: '2016-01-21T22:29:51.001Z'
+dateModified: '2016-01-21T22:10:15.993Z'
 title: 'agile:NPDtech'
 author: []
 sourcePath: _posts/2015-12-17-agilefood.md
@@ -23,7 +23,6 @@ _type: Article
 
 ---
 # agile:NPDtech
-![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/149c965b27a6428163d02d2b3ce8cbff3e70ff8e.png)
 
 ****
 
