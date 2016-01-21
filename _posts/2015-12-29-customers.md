@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T20:39:21.407Z'
+datePublished: '2016-01-21T20:39:21.409Z'
 dateModified: '2016-01-21T20:39:21.174Z'
 title: Customers
 author: []
