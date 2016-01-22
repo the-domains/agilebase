@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-22T10:10:39.164Z'
-dateModified: '2016-01-22T10:10:34.402Z'
+datePublished: '2016-01-22T17:05:56.158Z'
+dateModified: '2016-01-22T17:05:53.917Z'
 title: Customers
 author: []
 sourcePath: _posts/2015-12-29-customers.md
@@ -28,7 +28,7 @@ Some customers who use our agile:Food software
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7e223be7-62a6-446e-90ef-07a8f4a4819a.jpg)
 
 **Jardox**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ca477ba6-7300-4725-8b46-40682d1b2cb5.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ffb8b1e55772629e0c66edb3961356416dde193c.png)
 
 > Jardox has been using Chilli since 2009  and the implementation of this easy to use, intelligent system has made everyone's life easier. Importantly for Jardox, which operates in the ever-changing food sector, Chilli's systems are extremely flexible, allowing for necessary updates to accommodate our every need. The system has saved us time and money and we really value Mark's great experience and brilliant can-do attitude. We consider Chilli to be an extension of the Jardox team.
 
@@ -45,14 +45,14 @@ Our business was at a point where we needed to consolidate from several independ
 Andy Keating, Operations Director
 
 **Pieminister**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/f4b7ab3d-2e3a-4630-8eb7-33ffe3b7c180.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/8ea0dd0db67e88ab82d0e136c57a630949bbb15f.jpg)
 
 > Chilli has helped pieminister to cope with it's complex, unique requirements and rapid growth. Chilli's approach was to gain a true understanding of the way we work and to make the software work for us, unlike previous software which we were having to try adapt to.  The other great thing about working with Chilli is their in depth understanding of the workings and complexities of the food industry, which meant that we actually improved many of our internal processes whilst implementing the software. Simply put, this software has improved our business and saved us a fortune.
 
 Tristan Hogg, Managing Director
 
 **Castell Howell Foods**
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/95135850-9a85-4ecb-b575-8d3b7fb2edb9.jpg)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/fbb6e0b3235130eb274828cb039566c217782f8a.jpg)
 
 [https://youtu.be/6z4vazyY98s][0]
 
@@ -63,7 +63,7 @@ Nigel Williams, Financial Director
 **Lewis Pies**
 
 [https://youtu.be/HxZvLGuOgeg][1]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a555c002-ecfa-42c0-8707-7395cc108e81.png)
+![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/0a13a9467a54a1e0a6fe928cd18481bd18044f2a.png)
 
 > We needed software that we could change quickly, that was agile and that could fit the way that we worked. I saw agileBase and knew that it would be an easy system to roll out. We involved the staff in the process, building the processes around their roles and got the software up and running within two weeks.
 
