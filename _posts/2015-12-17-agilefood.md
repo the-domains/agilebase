@@ -6,7 +6,7 @@ inLanguage: null
 starred: true
 keywords: []
 description: ''
-datePublished: '2016-01-22T09:40:25.997Z'
+datePublished: '2016-01-22T09:40:26.303Z'
 dateModified: '2016-01-21T23:01:51.557Z'
 title: 'agile:NPDtech'
 author: []
