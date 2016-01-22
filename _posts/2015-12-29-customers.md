@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-21T20:39:21.409Z'
-dateModified: '2016-01-21T20:39:21.174Z'
+datePublished: '2016-01-22T10:10:39.023Z'
+dateModified: '2016-01-22T10:10:34.402Z'
 title: Customers
 author: []
 sourcePath: _posts/2015-12-29-customers.md
